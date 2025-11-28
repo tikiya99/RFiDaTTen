@@ -186,6 +186,3 @@ This project is open source and available under the MIT License.
 
 For questions or support, please open an issue on GitHub.
 
----
-
-**Built with ❤️ using Jetpack Compose**
